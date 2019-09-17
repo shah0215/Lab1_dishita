@@ -12,3 +12,12 @@
 /captures
 .externalNativeBuild
 .cxx
+
+.gitigonre file
+.idea/
+*/.idea/
+**/*iml
+
+
+
+
